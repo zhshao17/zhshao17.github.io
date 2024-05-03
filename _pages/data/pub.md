@@ -4,6 +4,5 @@
 
 ## Deep Learning
 - ``IEEE TII (CCF-C)`` [**A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment**](https://ieeexplore.ieee.org/document/10495722) \[[**PDF**](https://ieeexplore.ieee.org/document/10495722)\]
-
 **Zonghe Shao**, Qichao Wang, Yuzhe Cao, Defu Cai, Yang You, Renzhi Lu
 
