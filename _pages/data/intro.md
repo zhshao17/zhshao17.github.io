@@ -1,0 +1,3 @@
+I am currently a fourth-year undergraduate students at [School of Artificial Intelligence and Automation(AIA)](http://english.aia.hust.edu.cn/index.htm), [Huazhong University of Science and Technology(HUST)](https://english.hust.edu.cn/). I will join the [Intelligent Manufacturing and Data Science Lab](http://imds.aia.hust.edu.cn/English/Home.htm) in September 2024 , advised by Prof. Renzhi Lu.
+
+My research interest includes deep learning, reinforcement learning and optimization theory.
