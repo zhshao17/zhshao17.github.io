@@ -4,7 +4,7 @@
 
 ## Deep Learning
 - [**A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment**](https://ieeexplore.ieee.org/document/10495722) 
-\[[**PDF**](https://ieeexplore.ieee.org/document/10495722) \]\
+\[[**PDF**](https://ieeexplore.ieee.org/document/10495722)\]\
 IEEE Transactions on Industrial Informatics, 2024\
 **Zonghe Shao**, Qichao Wang, Yuzhe Cao, Defu Cai, Yang You, Renzhi Lu
 
