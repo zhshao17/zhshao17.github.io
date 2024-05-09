@@ -5,5 +5,5 @@ I am currently a fourth-year undergraduate students at [School of Artificial Int
 <!-- I will join the [Intelligent Manufacturing and Data Science Lab](http://imds.aia.hust.edu.cn/English/Home.htm) in September 2024 , advised by Prof. Renzhi Lu. -->
 
 
-My research interest includes deep learning, reinforcement learning and optimization theory. I also follow computer graphics., that's interesting.
+My research interest includes deep learning, reinforcement learning and optimization theory. I also follow computer graphics, that's interesting.
 
