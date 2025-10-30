@@ -24,7 +24,7 @@ Publications
 
 **machine learning**
 
-- [A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment](https://ieeexplore.ieee.org/document/10495722). `<br>` **Zonghe Shao**; Qichao Wang; Yuzhe Cao; Defu Cai; Yang You; Renzhi Lu.
+- [A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment](https://ieeexplore.ieee.org/document/10495722). <br> **Zonghe Shao**; Qichao Wang; Yuzhe Cao; Defu Cai; Yang You; Renzhi Lu. <br> *IEEE Transactions on Industrial Informatics*, 2024 (IF=11.3)
 
 **reinforcement learning**
 
