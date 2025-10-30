@@ -24,7 +24,7 @@ Publications
 
 **machine learning**
 
-- [A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment](https://ieeexplore.ieee.org/document/10495722). <br> **Zonghe Shao**; Qichao Wang; Yuzhe Cao; Defu Cai; Yang You; Renzhi Lu. <br> *IEEE Transactions on Industrial Informatics*, 2024 (IF=11.3)
+- [A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment](https://ieeexplore.ieee.org/document/10495722). `<br>` **Zonghe Shao**; Qichao Wang; Yuzhe Cao; Defu Cai; Yang You; Renzhi Lu. `<br>` *IEEE Transactions on Industrial Informatics*, 2024 (IF=11.3)
 
 **reinforcement learning**
 
@@ -32,7 +32,7 @@ Educations
 ==========
 
 - 2024 - 2027, Mphil, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology
-- 2016 - 2020, Bachelor, Artificial Intelligence, Huazhong University of Science and Technology
+- 2020 - 2024, Bachelor, Artificial Intelligence, Huazhong University of Science and Technology
 
 Internships
 ===========
@@ -46,5 +46,3 @@ Teaching
 
 - *Python Language Design* by Prof. Renzhi Lu, Autumn 2024, 2025. (Teaching Assistant)
 - *Data Science Foundation* by Prof. Renzhi Lu, Autumn 2024, 2025. (Teaching Assistant)
-
-<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=H0wdq5Yt_5DevaMQDScKGgo6jqadE8y4Cjc-Wts5J_Q&cl=ffffff&w=a"></script>
