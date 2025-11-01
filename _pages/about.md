@@ -37,7 +37,7 @@ Educations
 Internships
 ===========
 
-- **TikTok, Bytedance (2021.10 - 2022.04)**
+- **TikTok, Bytedance (2025.04 - 2025.10)**
 
   Researched on RL4Rec
 
