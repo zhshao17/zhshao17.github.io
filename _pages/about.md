@@ -7,12 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a MPhil student at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), under the supervision of Prof. Renzhi Lu. I received my Bachelor of Science degree in Artificial Intelligence from HUST in 2024.
+I am currently a MPhil student at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), under the supervision of *Prof. Renzhi Lu*. I received my B.Sc. in Artificial Intelligence from HUST in 2024.
 
-I was previously  an intern on the TikTok, ByteDance. Before that, I engaged in research on facial micro-expression recognition, advised by Prof. [Xiang Xiang](https://eglxiang.github.io/). Before that, I carried out research on [defocus blur detection](https://github.com/zhshao17/Defocus-blur-detection) under the supervision of Prof. [Hao Lu](https://sites.google.com/site/poppinace/).
+Previously, I worked as an intern at TikTok, ByteDance. Before that, I conducted research on [facial micro-expression recognition](https://ieeexplore.ieee.org/abstract/document/9915437) under the supervision of Prof. [Xiang Xiang](https://eglxiang.github.io/). Before that, I also explored [defocus blur detection](https://github.com/zhshao17/Defocus-blur-detection), advised by Prof. [Hao Lu](https://sites.google.com/site/poppinace/).
 
 
-My research interests lie in optimization theory in machine learning (ML) and reward learning in reinforcement learning (RL), with an emphasis on developing more intelligent RL agents. If you want to contact me, or if you are interested in collaborating with me, please drop me an e-mail using my Gmail:  zongheshao17[AT]gmail.com.
+**What am I doing?**
+
+
+My research primarily focuses on reinforcement learning (RL), with the goal of endowing RL agents with *truly intelligent* capabilities. Specifically, I am interested in:
+
+
+- Enabling RL agents to autonomously learn rewards, similar to how humans do (*accepted by Nature Communications*)
+
+- Developing more accurate value function estimations to support decision-making (*under review at TPAMI*)
+
+- Designing [RL-specific optimizers](https://arxiv.org/abs/2412.02291) to accelerate training and improve efficiency (*ongoing work*)
+
+
+I am also interested in the industrial applications of RL, such as recommendation systems, ad bidding, and generative RL.
+
+If you want to contact me, or if you are interested in collaborating with me, please drop me an e-mail using my Gmail:  zongheshao17[AT]gmail.com.
+
+
 
 News
 ====
@@ -46,4 +63,4 @@ Teaching
 ========
 
 - *Python Language Design* by Prof. Renzhi Lu, Autumn 2024, 2025. (Teaching Assistant)
-- *Data Science Foundation* by Prof. Renzhi Lu, Autumn 2024, 2025. (Teaching Assistant)
+- *Data Science* by Prof. Renzhi Lu, Autumn 2024, 2025. (Teaching Assistant)
