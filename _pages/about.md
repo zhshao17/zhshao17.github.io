@@ -42,9 +42,11 @@ Publications
 
 **machine learning**
 
-- [A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment](https://ieeexplore.ieee.org/document/10495722). <br> **Zonghe Shao**; Qichao Wang; Yuzhe Cao; Defu Cai; Yang You; Renzhi Lu. <br> *IEEE Transactions on Industrial Informatics*, 2024 (IF=11.3)
+- [A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment](https://ieeexplore.ieee.org/document/10495722). <br> **Zonghe Shao**, Qichao Wang, Yuzhe Cao, Defu Cai, Yang You & Renzhi Lu. <br> *IEEE Transactions on Industrial Informatics*, 2024 (IF=11.3)
 
 **reinforcement learning**
+
+- [Discovery of the reward function for embodied reinforcement learning agents](https://www.nature.com/articles/s41467-025-66009-y). <br> Renzhi Lu, **Zonghe Shao**, Yuemin Ding, Ruijuan Chen, Dongrui Wu, Housheng Su, Tao Yang, Fumin Zhang, Jun Wang, Yang Shi, Zhong-Ping Jiang, Han Ding & Hai-Tao Zhang. <br> *Nature Communications*, 2025 
 
 Educations
 ==========
