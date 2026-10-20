@@ -58,6 +58,13 @@
 
 .entry--logo .entry-thumb {
   height: 60px;
+  border: 0;
+  background: transparent;
+}
+
+/* Keep colored logos legible when the dark theme is active. */
+html[data-theme="dark"] .entry--logo .entry-thumb {
+  background: #fff;
 }
 
 /* Logos are pre-normalized to a common pixel height, so a fixed rendered

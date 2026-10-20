@@ -9,11 +9,11 @@ redirect_from:
 ---
 Hi, I am Zonghe Shao. I am currently a third-year MPhil student at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by *Prof. Renzhi Lu*, and I expect to graduate in June 2027. I received my B.Sc. in Artificial Intelligence from HUST in 2024.
 
-I am currently an intern at Alibaba Group (Taotian). Before that, I interned at Kuaishou Technology and TikTok, ByteDance.
+I am currently an intern at Taobao & Tmall Group, Alibaba. Before that, I interned at Kuaishou Technology and TikTok, ByteDance.
 
-My research interests include reinforcement learning, large language models, and their applications in recommender systems. Within reinforcement learning, I mainly focus on:
+My research interests include Reinforcement Learning (RL), Large Language Models (LLMs), and their applications in Recommender Systems (RS). Within reinforcement learning, I mainly focus on:
 
-- Enabling RL agents to autonomously learn rewards, similar to how humans do (*accepted by Nature Communications*)
+- Enabling RL agents to autonomously learn rewards, similar to how humans do (*published in Nature Communications and Research*)
 
 - Developing more accurate value function estimations to support decision-making (*under review at TPAMI*)
 
@@ -24,6 +24,7 @@ If you want to contact me, or if you are interested in collaborating with me, pl
 News
 ====
 
+- [2026.02] *One paper accepted by Research !*
 - [2025.10] *One paper accepted by Nature Communications !*
 - [2024.07] *One paper accepted by IEEE Transactions on Industrial Informatics !*
 
