@@ -1,0 +1,40 @@
+# Single source of truth for the publication list.
+# Rendered by _includes/pub-list.html on both the homepage and /publications/.
+# Order here is the display order (newest first).
+# `image` is the methodology overview figure; leave empty to render text-only.
+
+- year: 2026
+  title: "Uncertainty as Remedy: Mitigating Satisfaction Label Bias in Short Video Multi-Objective Ensemble Ranking"
+  authors: "<strong>Zonghe Shao</strong>, Tiantian He, Xiaoxiao Xu, Jiaqi Yu, Minzhi Xie, Jinfang Gu, Yongqi Liu, Kaiqiao Zhan &amp; Kun Gai"
+  venue: "arXiv preprint arXiv:2607.17092"
+  detail: ""
+  note: ""
+  link: "https://arxiv.org/abs/2607.17092"
+  image: "/images/publications/p2026-arxiv-uame.png"
+
+- year: 2026
+  title: "Deep Reinforcement Learning for Real-World Humanoid Robot Locomotion Control with Automatic Reward Learning"
+  authors: "Renzhi Lu, Jie Wang, <strong>Zonghe Shao</strong>, Ruijuan Chen, Lijun Zhu, Yuzhi Jiang, Yunyi Pang, Dongfang Liang, Yang Shi &amp; Han Ding"
+  venue: "Research"
+  detail: "9, 1123"
+  note: ""
+  link: "https://spj.science.org/doi/full/10.34133/research.1123"
+  image: "/images/publications/p2026-research-humanoid.jpg"
+
+- year: 2025
+  title: "Discovery of the reward function for embodied reinforcement learning agents"
+  authors: "Renzhi Lu, <strong>Zonghe Shao</strong>, Yuemin Ding, Ruijuan Chen, Dongrui Wu, Housheng Su, Tao Yang, Fumin Zhang, Jun Wang, Yang Shi, Zhong-Ping Jiang, Han Ding &amp; Hai-Tao Zhang"
+  venue: "Nature Communications"
+  detail: "16(1), 11064"
+  note: ""
+  link: "https://www.nature.com/articles/s41467-025-66009-y"
+  image: "/images/publications/p2025-natcomm-reward.png"
+
+- year: 2024
+  title: "A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment"
+  authors: "<strong>Zonghe Shao</strong>, Qichao Wang, Yuzhe Cao, Defu Cai, Yang You &amp; Renzhi Lu"
+  venue: "IEEE Transactions on Industrial Informatics"
+  detail: "20(7), 9083-9097"
+  note: "IF=11.3"
+  link: "https://ieeexplore.ieee.org/document/10495722"
+  image: "/images/publications/p2024-lstmsaf.png"

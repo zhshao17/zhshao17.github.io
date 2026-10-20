@@ -1,0 +1,136 @@
+/* ==========================================================================
+   ENTRY LISTS (left figure/logo + right text): publications & internships
+   ========================================================================== */
+
+.entry-list {
+  margin: 1.5em 0;
+}
+
+.entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25em;
+  padding: 1.1em 0;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.entry:first-child {
+  padding-top: 0.25em;
+}
+
+.entry:last-child {
+  border-bottom: 0;
+}
+
+.entry-thumb {
+  flex: 0 0 240px;
+  width: 240px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  background: #fff;
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.entry-thumb img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Keeps the text column aligned when an entry has no figure/logo yet. */
+.entry-gutter {
+  flex: 0 0 240px;
+}
+
+.entry--logo .entry-thumb,
+.entry--logo .entry-gutter {
+  flex: 0 0 240px;
+  width: 240px;
+}
+
+.entry--logo .entry-thumb {
+  height: 60px;
+}
+
+/* Logos are pre-normalized to a common pixel height, so a fixed rendered
+   height keeps their visual size uniform across entries. */
+.entry--logo .entry-thumb img {
+  height: 38px;
+  width: auto;
+  max-width: 100%;
+  max-height: none;
+}
+
+.entry-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.entry-title {
+  margin: 0 0 0.4em;
+  font-size: $type-size-5;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.entry-title a {
+  color: var(--global-text-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.entry-title a:hover {
+  color: var(--global-link-color);
+  border-bottom-color: var(--global-link-color);
+}
+
+.entry-sub {
+  margin: 0 0 0.4em;
+  font-size: $type-size-6;
+  line-height: 1.5;
+  color: var(--global-text-color);
+}
+
+.entry-meta {
+  margin: 0;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
+}
+
+@media (max-width: 640px) {
+  .entry {
+    flex-direction: column;
+    gap: 0.9em;
+  }
+
+  .entry-gutter {
+    display: none;
+  }
+
+  .entry-thumb {
+    display: block;
+    flex: none;
+    width: 100%;
+    height: auto;
+    max-height: none;
+  }
+
+  .entry-thumb img {
+    width: 100%;
+    height: auto;
+    max-height: none;
+  }
+
+  .entry--logo .entry-thumb {
+    width: 100%;
+    text-align: center;
+  }
+}

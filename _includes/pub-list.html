@@ -1,0 +1,18 @@
+<div class="entry-list">
+  {% for p in site.data.publications %}
+  <div class="entry">
+    {% if p.image and p.image != "" %}
+    <a class="entry-thumb" href="{{ p.image | relative_url }}" target="_blank" rel="noopener" aria-label="Open full-size methodology figure">
+      <img src="{{ p.image | relative_url }}" alt="Methodology overview of: {{ p.title | escape_once }}" loading="lazy">
+    </a>
+    {% else %}
+    <div class="entry-gutter" aria-hidden="true"></div>
+    {% endif %}
+    <div class="entry-body">
+      <p class="entry-title"><a href="{{ p.link }}">{{ p.title }}</a></p>
+      <p class="entry-sub">{{ p.authors }}</p>
+      <p class="entry-meta"><em>{{ p.venue }}</em>{% if p.detail and p.detail != "" %}, {{ p.detail }}{% endif %}, {{ p.year }}{% if p.note and p.note != "" %} ({{ p.note }}){% endif %}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,17 @@
+<div class="entry-list">
+  {% for it in site.data.internships %}
+  <div class="entry entry--logo">
+    {% if it.logo and it.logo != "" %}
+    <div class="entry-thumb">
+      <img src="{{ it.logo | relative_url }}" alt="{{ it.company | escape_once }} logo" loading="lazy">
+    </div>
+    {% else %}
+    <div class="entry-gutter" aria-hidden="true"></div>
+    {% endif %}
+    <div class="entry-body">
+      <p class="entry-title">{{ it.company }}</p>
+      {% if it.note and it.note != "" %}<p class="entry-sub">{{ it.note }}</p>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>

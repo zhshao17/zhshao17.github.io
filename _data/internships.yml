@@ -1,0 +1,14 @@
+# Internship / industry experience, displayed top-to-bottom (current first).
+# `logo` is the company logo image; leave empty until the file is supplied.
+
+- company: "Taobao & Tmall Group, Alibaba"
+  note: ""
+  logo: "/images/internships/taotian.png"
+
+- company: "Kuaishou Technology"
+  note: ""
+  logo: "/images/internships/kuaishou.png"
+
+- company: "TikTok, ByteDance"
+  note: ""
+  logo: "/images/internships/bytedance.png"

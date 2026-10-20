@@ -7,25 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a MPhil student at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), under the supervision of *Prof. Renzhi Lu*. I received my B.Sc. in Artificial Intelligence from HUST in 2024.
+Hi, I am Zonghe Shao. I am currently a third-year MPhil student at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by *Prof. Renzhi Lu*, and I expect to graduate in June 2027. I received my B.Sc. in Artificial Intelligence from HUST in 2024.
 
-Previously, I worked as an intern at TikTok, ByteDance. Before that, I conducted research on [facial micro-expression recognition](https://ieeexplore.ieee.org/abstract/document/9915437) under the supervision of Prof. [Xiang Xiang](https://eglxiang.github.io/). Before that, I also explored [defocus blur detection](https://github.com/zhshao17/Defocus-blur-detection), advised by Prof. [Hao Lu](https://sites.google.com/site/poppinace/).
+I am currently an intern at Alibaba Group (Taotian). Before that, I interned at Kuaishou Technology and TikTok, ByteDance.
 
-
-**What am I doing?**
-
-
-My research primarily focuses on reinforcement learning (RL), with the goal of endowing RL agents with *truly intelligent* capabilities. Specifically, I am interested in:
-
+My research interests include reinforcement learning, large language models, and their applications in recommender systems. Within reinforcement learning, I mainly focus on:
 
 - Enabling RL agents to autonomously learn rewards, similar to how humans do (*accepted by Nature Communications*)
 
 - Developing more accurate value function estimations to support decision-making (*under review at TPAMI*)
-
-- Designing [RL-specific optimizers](https://arxiv.org/abs/2412.02291) to accelerate training and improve efficiency (*ongoing work*)
-
-
-I am also interested in the industrial applications of RL, such as recommendation systems, ad bidding, and generative RL.
 
 If you want to contact me, or if you are interested in collaborating with me, please drop me an e-mail using my Gmail:  zongheshao17[AT]gmail.com.
 
@@ -40,13 +30,7 @@ News
 Publications
 ============
 
-**machine learning**
-
-- [A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment](https://ieeexplore.ieee.org/document/10495722). <br> **Zonghe Shao**, Qichao Wang, Yuzhe Cao, Defu Cai, Yang You & Renzhi Lu. <br> *IEEE Transactions on Industrial Informatics*, 2024 (IF=11.3)
-
-**reinforcement learning**
-
-- [Discovery of the reward function for embodied reinforcement learning agents](https://www.nature.com/articles/s41467-025-66009-y). <br> Renzhi Lu, **Zonghe Shao**, Yuemin Ding, Ruijuan Chen, Dongrui Wu, Housheng Su, Tao Yang, Fumin Zhang, Jun Wang, Yang Shi, Zhong-Ping Jiang, Han Ding & Hai-Tao Zhang. <br> *Nature Communications*, 2025 
+{% include pub-list.html %}
 
 Educations
 ==========
@@ -57,12 +41,10 @@ Educations
 Internships
 ===========
 
-- **TikTok, Bytedance (2025.04 - 2025.10)**
+{% include intern-list.html %}
 
-  Researched on RL4Rec
+Service
+=======
 
-Teaching
-========
-
-- *Python Language Design* by Prof. Renzhi Lu, Autumn 2024, 2025. (Teaching Assistant)
-- *Data Science* by Prof. Renzhi Lu, Autumn 2024, 2025. (Teaching Assistant)
+- Reviewer for conferences: ICLR, KDD, AAAI
+- Reviewer for journals: IEEE Transactions on Power Systems (TPS), IEEE Transactions on Industrial Informatics (TII), and IEEE Transactions on Consumer Electronics (TCE)
