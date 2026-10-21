@@ -2,12 +2,12 @@
 # Rendered by _includes/pub-list.html on both the homepage and /publications/.
 # Order here is the display order (newest first).
 # `image` is the methodology overview figure; leave empty to render text-only.
-# Author names link to verified Google Scholar profiles; unlinked names had no
-# confidently matchable profile (common names), so they are left plain.
+# Author names link to Google Scholar profiles; IDs supplied or confirmed by
+# the site owner take precedence. Names without a link have no known profile.
 
 - year: 2026
   title: "Uncertainty as Remedy: Mitigating Satisfaction Label Bias in Short Video Multi-Objective Ensemble Ranking"
-  authors: '<a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, Tiantian He, Xiaoxiao Xu, <a href="https://scholar.google.com/citations?user=uhio6wMAAAAJ">Jiaqi Yu</a>, Minzhi Xie, Jinfang Gu, Yongqi Liu, <a href="https://scholar.google.com/citations?user=7phrAWgAAAAJ">Kaiqiao Zhan</a> &amp; <a href="https://scholar.google.com/citations?user=PXO4ygEAAAAJ">Kun Gai</a>'
+  authors: '<a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, Tiantian He, <a href="https://scholar.google.com/citations?user=1I2OrQEAAAAJ">Xiaoxiao Xu</a>, <a href="https://scholar.google.com/citations?user=uhio6wMAAAAJ">Jiaqi Yu</a>, Minzhi Xie, Jinfang Gu, Yongqi Liu, <a href="https://scholar.google.com/citations?user=7phrAWgAAAAJ">Kaiqiao Zhan</a> &amp; <a href="https://scholar.google.com/citations?user=PXO4ygEAAAAJ">Kun Gai</a>'
   venue: "arXiv preprint arXiv:2607.17092"
   detail: ""
   note: ""
@@ -16,7 +16,7 @@
 
 - year: 2026
   title: "Deep Reinforcement Learning for Real-World Humanoid Robot Locomotion Control with Automatic Reward Learning"
-  authors: '<a href="https://scholar.google.com/citations?user=V5MSRhYAAAAJ">Renzhi Lu</a>, Jie Wang, <a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, Ruijuan Chen, Lijun Zhu, Yuzhi Jiang, <a href="https://scholar.google.com/citations?user=ys_c-rMAAAAJ">Yunyi Pang</a>, Dongfang Liang, Yang Shi &amp; Han Ding'
+  authors: '<a href="https://scholar.google.com/citations?user=V5MSRhYAAAAJ">Renzhi Lu</a>, Jie Wang, <a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, Ruijuan Chen, Lijun Zhu, Yuzhi Jiang, <a href="https://scholar.google.com/citations?user=ys_c-rMAAAAJ">Yunyi Pang</a>, Dongfang Liang, <a href="https://scholar.google.com/citations?user=LVnHobEAAAAJ">Yang Shi</a> &amp; Han Ding'
   venue: "Research"
   detail: "9, 1123"
   note: ""
@@ -25,7 +25,7 @@
 
 - year: 2025
   title: "Discovery of the reward function for embodied reinforcement learning agents"
-  authors: '<a href="https://scholar.google.com/citations?user=V5MSRhYAAAAJ">Renzhi Lu</a>, <a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, <a href="https://scholar.google.com/citations?user=_B7YqukAAAAJ">Yuemin Ding</a>, Ruijuan Chen, <a href="https://scholar.google.com/citations?user=UYGzCPEAAAAJ">Dongrui Wu</a>, Housheng Su, Tao Yang, Fumin Zhang, Jun Wang, Yang Shi, <a href="https://scholar.google.com/citations?user=COrhJXcAAAAJ">Zhong-Ping Jiang</a>, Han Ding &amp; <a href="https://scholar.google.com/citations?user=y089Rj8AAAAJ">Hai-Tao Zhang</a>'
+  authors: '<a href="https://scholar.google.com/citations?user=V5MSRhYAAAAJ">Renzhi Lu</a>, <a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, <a href="https://scholar.google.com/citations?user=_B7YqukAAAAJ">Yuemin Ding</a>, Ruijuan Chen, <a href="https://scholar.google.com/citations?user=UYGzCPEAAAAJ">Dongrui Wu</a>, Housheng Su, <a href="https://scholar.google.com/citations?user=9DTjZ_YAAAAJ">Tao Yang</a>, <a href="https://scholar.google.com/citations?user=7be_O8EAAAAJ">Fumin Zhang</a>, <a href="https://scholar.google.com/citations?user=TBcb-1kAAAAJ">Jun Wang</a>, <a href="https://scholar.google.com/citations?user=LVnHobEAAAAJ">Yang Shi</a>, <a href="https://scholar.google.com/citations?user=COrhJXcAAAAJ">Zhong-Ping Jiang</a>, Han Ding &amp; <a href="https://scholar.google.com/citations?user=y089Rj8AAAAJ">Hai-Tao Zhang</a>'
   venue: "Nature Communications"
   detail: "16(1), 11064"
   note: ""
@@ -34,7 +34,7 @@
 
 - year: 2024
   title: "A Novel Data-Driven LSTM-SAF Model for Power Systems Transient Stability Assessment"
-  authors: '<a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, Qichao Wang, Yuzhe Cao, Defu Cai, <a href="https://scholar.google.com/citations?user=jF4dPZwAAAAJ">Yang You</a> &amp; <a href="https://scholar.google.com/citations?user=V5MSRhYAAAAJ">Renzhi Lu</a>'
+  authors: '<a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, <a href="https://scholar.google.com/citations?user=KLyX8fQAAAAJ">Qichao Wang</a>, <a href="https://scholar.google.com/citations?user=5UWS-eAAAAAJ">Yuzhe Cao</a>, Defu Cai, Yang You &amp; <a href="https://scholar.google.com/citations?user=V5MSRhYAAAAJ">Renzhi Lu</a>'
   venue: "IEEE Transactions on Industrial Informatics"
   detail: "20(7), 9083-9097"
   note: "IF=11.3"
