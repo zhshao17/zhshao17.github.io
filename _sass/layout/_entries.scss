@@ -106,6 +106,18 @@ html[data-theme="dark"] .entry--logo .entry-thumb {
   color: var(--global-text-color);
 }
 
+/* Author Scholar links stay invisible until hovered, like entry titles. */
+.entry-sub a {
+  color: var(--global-text-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.entry-sub a:hover {
+  color: var(--global-link-color);
+  border-bottom-color: var(--global-link-color);
+}
+
 .entry-meta {
   margin: 0;
   font-size: $type-size-6;
