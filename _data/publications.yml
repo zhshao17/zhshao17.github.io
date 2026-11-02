@@ -6,6 +6,15 @@
 # the site owner take precedence. Names without a link have no known profile.
 
 - year: 2026
+  title: "UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation"
+  authors: '<a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, Huabin Chen, Sitong Lu, Fangmei Zhu, Yingcai Ma, Ge Fan, Jinguo Gao, Wei Shi, Yanfang Liu &amp; Huiping Chu'
+  venue: "arXiv preprint arXiv:2610.39426"
+  detail: ""
+  note: ""
+  link: "https://arxiv.org/abs/2610.39426"
+  image: "/images/publications/p2026-arxiv-ugr.jpg"
+
+- year: 2026
   title: "Uncertainty as Remedy: Mitigating Satisfaction Label Bias in Short Video Multi-Objective Ensemble Ranking"
   authors: '<a href="https://scholar.google.com/citations?user=nwrx-_EAAAAJ"><strong>Zonghe Shao</strong></a>, Tiantian He, <a href="https://scholar.google.com/citations?user=1I2OrQEAAAAJ">Xiaoxiao Xu</a>, <a href="https://scholar.google.com/citations?user=uhio6wMAAAAJ">Jiaqi Yu</a>, Minzhi Xie, Jinfang Gu, Yongqi Liu, <a href="https://scholar.google.com/citations?user=7phrAWgAAAAJ">Kaiqiao Zhan</a> &amp; <a href="https://scholar.google.com/citations?user=PXO4ygEAAAAJ">Kun Gai</a>'
   venue: "arXiv preprint arXiv:2607.17092"
