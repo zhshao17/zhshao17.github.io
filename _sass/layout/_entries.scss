@@ -81,7 +81,7 @@ html[data-theme="dark"] .entry--logo .entry-thumb {
   min-width: 0;
 }
 
-.entry-title {
+.entry-body .entry-title {
   margin: 0 0 0.4em;
   font-size: $type-size-5;
   font-weight: 600;
@@ -99,7 +99,7 @@ html[data-theme="dark"] .entry--logo .entry-thumb {
   border-bottom-color: var(--global-link-color);
 }
 
-.entry-sub {
+.entry-body .entry-sub {
   margin: 0 0 0.4em;
   font-size: $type-size-6;
   line-height: 1.5;
@@ -118,13 +118,13 @@ html[data-theme="dark"] .entry--logo .entry-thumb {
   border-bottom-color: var(--global-link-color);
 }
 
-.entry-meta {
+.entry-body .entry-meta {
   margin: 0;
   font-size: $type-size-6;
   color: var(--global-text-color-light);
 }
 
-.entry-note {
+.entry-body .entry-note {
   margin: 0.35em 0 0;
   font-size: $type-size-6;
   color: var(--global-text-color-light);
