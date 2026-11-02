@@ -56,8 +56,7 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
-  gap: 1em 2em;
+  gap: 0.8em 1em;
   margin: 1.2em 0 1.6em;
 }
 
@@ -156,8 +155,7 @@ html[data-theme="dark"] .intern-logo {
   }
 
   .intern-row {
-    justify-content: center;
-    gap: 1.2em;
+    gap: 0.7em 0.8em;
   }
 
   .intern-logo {
