@@ -63,12 +63,14 @@
 
 .intern-logo {
   display: block;
+  box-sizing: content-box;
   height: 38px;
   width: auto;
   max-width: 100%;
 }
 
-/* Keep colored logos legible when the dark theme is active. */
+/* Keep colored logos legible when the dark theme is active; the padding sits
+   outside the image so the logo keeps the same size as in the light theme. */
 html[data-theme="dark"] .intern-logo {
   background: #fff;
   padding: 4px 6px;
