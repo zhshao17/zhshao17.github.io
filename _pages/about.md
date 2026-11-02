@@ -22,7 +22,7 @@ If you want to contact me, or if you are interested in collaborating with me, pl
 News
 ====
 
-- [2026.10] *One paper released on arXiv !*
+- [2026.10] *[UGR](https://arxiv.org/abs/2610.39426) is available on arXiv !*
 - [2026.10] *I was awarded the National Scholarship !*
 - [2026.02] *One paper accepted by Research !*
 - [2025.10] *One paper accepted by Nature Communications !*
