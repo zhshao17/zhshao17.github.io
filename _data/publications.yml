@@ -13,6 +13,7 @@
   note: ""
   link: "https://arxiv.org/abs/2610.39426"
   image: "/images/publications/p2026-arxiv-ugr.jpg"
+  where: "Work done during an internship at Taobao & Tmall Group of Alibaba."
 
 - year: 2026
   title: "Uncertainty as Remedy: Mitigating Satisfaction Label Bias in Short Video Multi-Objective Ensemble Ranking"
@@ -22,6 +23,7 @@
   note: ""
   link: "https://arxiv.org/abs/2607.17092"
   image: "/images/publications/p2026-arxiv-uame.png"
+  where: "Work done during an internship at Kuaishou Technology."
 
 - year: 2026
   title: "Deep Reinforcement Learning for Real-World Humanoid Robot Locomotion Control with Automatic Reward Learning"

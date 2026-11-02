@@ -12,6 +12,7 @@
       <p class="entry-title"><a href="{{ p.link }}">{{ p.title }}</a></p>
       <p class="entry-sub">{{ p.authors }}</p>
       <p class="entry-meta"><em>{{ p.venue }}</em>{% if p.detail and p.detail != "" %}, {{ p.detail }}{% endif %}, {{ p.year }}{% if p.note and p.note != "" %} ({{ p.note }}){% endif %}</p>
+      {% if p.where and p.where != "" %}<p class="entry-note">{{ p.where }}</p>{% endif %}
     </div>
   </div>
   {% endfor %}

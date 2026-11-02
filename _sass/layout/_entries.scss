@@ -124,6 +124,12 @@ html[data-theme="dark"] .entry--logo .entry-thumb {
   color: var(--global-text-color-light);
 }
 
+.entry-note {
+  margin: 0.35em 0 0;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
+}
+
 @media (max-width: 640px) {
   .entry {
     flex-direction: column;
