@@ -7,13 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Zonghe Shao. I am currently a third-year MPhil student at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by Prof. Renzhi Lu, and I expect to graduate in June 2027. I received my B.Sc. in Artificial Intelligence from HUST in 2024. I am currently an intern at Taobao & Tmall Group, Alibaba. Before that, I interned at Kuaishou Technology and TikTok, ByteDance.
+Hi, I am Zonghe Shao. I am currently a third-year MPhil student at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by Prof. Renzhi Lu, and I expect to graduate in June 2027. I received my B.Sc. in Artificial Intelligence from HUST in 2024.
 
-My research interests include Reinforcement Learning (RL), Large Language Models (LLMs), and their applications in Recommender Systems (RS). Within RL, I mainly focus on:
-
-- Enabling RL agents to autonomously learn rewards, similar to how humans do (*published in Nature Communications and in Research*)
-
-- Developing more accurate value function estimations to support decision-making (*under review at TPAMI*)
+My research interests include **Reinforcement Learning (RL), Large Language Models (LLMs), and their applications in Recommender Systems (Recsys)**. My main research is on **autonomously learning rewards for RL agents** (published in [Nature Communications](https://www.nature.com/articles/s41467-025-66009-y) and [Research](https://spj.science.org/doi/full/10.34133/research.1123)). I have rich internship experience: I am currently an intern at **Taobao & Tmall Group, Alibaba**, and before that I interned at **Kuaishou Technology** and **TikTok, ByteDance**. I am interested in LLMs for Recommender Systems (LLM4Rec), Generative Recommendation (GR).
 
 If you want to contact me, or if you are interested in collaborating with me, please drop me an e-mail using my Gmail:  zongheshao17[AT]gmail.com.
 

@@ -50,30 +50,29 @@
   flex: 0 0 240px;
 }
 
-.entry--logo .entry-thumb,
-.entry--logo .entry-gutter {
-  flex: 0 0 240px;
-  width: 240px;
+/* One row of company logos, no text. Files are pre-normalized to a common
+   pixel height, so a fixed rendered height keeps their visual size uniform. */
+.intern-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em 2em;
+  margin: 1.2em 0 1em;
 }
 
-.entry--logo .entry-thumb {
-  height: 60px;
-  border: 0;
-  background: transparent;
-}
-
-/* Keep colored logos legible when the dark theme is active. */
-html[data-theme="dark"] .entry--logo .entry-thumb {
-  background: #fff;
-}
-
-/* Logos are pre-normalized to a common pixel height, so a fixed rendered
-   height keeps their visual size uniform across entries. */
-.entry--logo .entry-thumb img {
+.intern-logo {
+  display: block;
   height: 38px;
   width: auto;
   max-width: 100%;
-  max-height: none;
+}
+
+/* Keep colored logos legible when the dark theme is active. */
+html[data-theme="dark"] .intern-logo {
+  background: #fff;
+  padding: 4px 6px;
+  border-radius: $border-radius;
 }
 
 .entry-body {
@@ -154,8 +153,12 @@ html[data-theme="dark"] .entry--logo .entry-thumb {
     max-height: none;
   }
 
-  .entry--logo .entry-thumb {
-    width: 100%;
-    text-align: center;
+  .intern-row {
+    justify-content: center;
+    gap: 1.2em;
+  }
+
+  .intern-logo {
+    height: 34px;
   }
 }
